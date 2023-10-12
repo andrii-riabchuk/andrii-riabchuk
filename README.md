@@ -1,5 +1,5 @@
 ### IDK🫥
-Hope some of my projects can be useful for you...
+I hope some of my projects can be useful to you...
 
 <!--
 **andrii-riabchuk/andrii-riabchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
